@@ -8,9 +8,9 @@ House Price Predictor is a web application that predicts house prices based on v
 
 The project is organized into two main directories:
 
-├── backend
-│ ├── pycache
-│ ├── node_modules
+├── backend<br>
+│ ├── pycache<br>
+│ ├── node_modules<br>
 │ ├── app.py
 │ ├── model.joblib
 │ ├── package-lock.json
