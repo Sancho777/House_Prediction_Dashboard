@@ -11,28 +11,28 @@ The project is organized into two main directories:
 ├── backend<br>
 │ ├── pycache<br>
 │ ├── node_modules<br>
-│ ├── app.py
-│ ├── model.joblib
-│ ├── package-lock.json
-│ ├── package.json
-│ └── requirements.txt
+│ ├── app.py<br>
+│ ├── model.joblib<br>
+│ ├── package-lock.json<br>
+│ ├── package.json<br>
+│ └── requirements.txt<br>
+│<br>
+├── frontend<br>
+│ ├── node_modules<br>
+│ ├── public<br>
+│ ├── src<br>
+│ ├── .gitignore<br>
+│ ├── package-lock.json<br>
+│ ├── package.json<br>
+│ ├── postcss.config.js<br>
+│ ├── README.md<br>
+│ └── tailwind.config.js<br>
 │
-├── frontend
-│ ├── node_modules
-│ ├── public
-│ ├── src
-│ ├── .gitignore
-│ ├── package-lock.json
-│ ├── package.json
-│ ├── postcss.config.js
-│ ├── README.md
-│ └── tailwind.config.js
-│
-├── myenv
-├── desktop.ini
-├── housing.csv
-├── main.py
-└── README.md
+├── myenv<br>
+├── desktop.ini<br>
+├── housing.csv<br>
+├── main.py<br>
+└── README.md<br>
 
 ## Setup and Installation
 
