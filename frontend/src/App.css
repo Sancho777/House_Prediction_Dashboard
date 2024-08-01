@@ -1,0 +1,47 @@
+/* App.css */
+.app-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-table-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.form-table-container > * {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.chart-container {
+  margin-bottom: 20px;
+}
+
+.histogram-linechart-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.histogram-linechart-container > * {
+  flex: 1;
+  margin: 0 10px;
+  max-width: 50%;
+  box-sizing: border-box;
+}
+
+.map-container {
+  margin-top: 20px;
+}
+
+.map-container .leaflet-container {
+  height: 500px;
+  width: 100%;
+}
